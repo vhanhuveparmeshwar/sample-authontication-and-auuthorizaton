@@ -1,0 +1,9 @@
+/* Write your CSS code here */
+.not-found {
+  font-family: Roboto;
+  font-weight: 800;
+  font-size: 40px;
+  color: #000000;
+  display: flex;
+  justify-content: center;
+}
